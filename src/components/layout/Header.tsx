@@ -7,7 +7,6 @@ import { FiMenu, FiX, FiHome, FiBarChart2, FiMessageCircle, FiInfo } from "react
 
 const NAV_LINKS = [
   { href: "/", label: "Home", icon: FiHome },
-  { href: "/charts", label: "Charts", icon: FiBarChart2 },
   { href: "/contact", label: "Contact", icon: FiMessageCircle },
   { href: "/about", label: "About", icon: FiInfo },
 ];
